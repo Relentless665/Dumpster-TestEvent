@@ -1,0 +1,16 @@
+{
+	"Modifiers": [
+		{
+			"Zones": [
+				{
+					"Name": "pvptest",
+					"TopLeft": "X=-296052.062  Y=617952.438",
+					"BottomRight": "X=-879640.625  Y=-865031.250"
+				}
+			],
+			"SpawnerProbabilityMultiplier": 5,
+			"ExamineSpawnerProbabilityMultiplier": 5,
+			"ExamineSpawnerQuantityMultiplier": 5
+		}
+	]
+}
