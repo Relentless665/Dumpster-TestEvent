@@ -3,14 +3,57 @@
 		{
 			"Zones": [
 				{
-					"Name": "pvptest",
-					"TopLeft": "X=-296052.062  Y=617952.438",
-					"BottomRight": "X=-879640.625  Y=-865031.250"
+					"Name": "PVPZone",
+					"TopLeft": "X=9600.000 Y=619196.750",
+					"BottomRight": "X=-904795.125 Y=-904795.125"
 				}
 			],
-			"SpawnerProbabilityMultiplier": 5,
-			"ExamineSpawnerProbabilityMultiplier": 5,
-			"ExamineSpawnerQuantityMultiplier": 5
+			"SpawnerProbabilityMultiplier": 10,
+			"ExamineSpawnerProbabilityMultiplier": 10,
+			"ExamineSpawnerQuantityMultiplier": 10
+		},
+		{
+			"Zones": [
+				{
+					"Name": "Hospital",
+					"TopLeft": "X=-611478.8462 Y=-99940.989",
+					"BottomRight": "X=-655928.8462 Y=-195923.6813"
+				}
+			]
+		},
+		{
+			"Zones": [
+				{
+					"Name": "Brickyard",
+					"TopLeft": "X=-766321.1538 Y=-273100.6044",
+					"BottomRight": "X=-799536.5385 Y=-294348.6813"
+				}
+			]
+		},
+		{
+			"Zones": [
+				{
+					"Name": "Scrapyard",
+					"TopLeft": "X=-854244.2308 Y=-163196.7582",
+					"BottomRight": "X=-879888.4615 Y=-208867.9121"
+				}
+			]
+		},
+		{
+			"Zones": [
+				{
+					"Name": "MechFactory",
+					"TopLeft": "X=-416551.3807 Y=-658164.497",
+					"BottomRight": "X=-459235.4043 Y=-716178.6982"
+				}
+			]
+		},
+		{
+			"Zones": [
+				{
+					"Sector": "D0"
+				}
+			]
 		}
 	]
 }
