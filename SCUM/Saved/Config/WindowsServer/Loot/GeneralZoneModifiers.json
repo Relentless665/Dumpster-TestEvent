@@ -8,9 +8,9 @@
 					"BottomRight": "X=-904795.125 Y=-904795.125"
 				}
 			],
-			"SpawnerProbabilityMultiplier": 10,
-			"ExamineSpawnerProbabilityMultiplier": 10,
-			"ExamineSpawnerQuantityMultiplier": 10
+			"SpawnerProbabilityMultiplier": 100,
+			"ExamineSpawnerProbabilityMultiplier": 100,
+			"ExamineSpawnerQuantityMultiplier": 100
 		},
 		{
 			"Zones": [
